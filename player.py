@@ -22,7 +22,7 @@ pygame.mixer.init()
 
 #add song function
 def add_song():
-	song = filedialog.askopenfilename(initialdir="assets/audio/",title="Choose A song",filetypes=(("mp3 Files","*.mp3"),("wav files","*.wav"),))
+	song = filedialog.askopenfilename(initialdir="assets/audio/",title="Choose A song",filetypes=(("mp3 Files","*.mp3"),("wav files","*.wav"),("m4a files","*.m4a"),("ogg files","*.ogg"),))
 	song = song.replace("/home/ashwani/hamr-project-final/assets/audio/","")
 	song_box.insert(END,song)
 
@@ -38,7 +38,7 @@ def stop():
     song_box.selection_clear(ACTIVE)
 
 #create PLayist Box
-song_box =Listbox(root,bg="white",fg="black",width=500,selectbackground="gray")
+song_box =Listbox(root,bg="white",fg="black",width=100,height=200,selectbackground="gray")
 song_box.pack(pady=20,padx=20)
 
 #create player control buttons
