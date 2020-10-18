@@ -8,8 +8,8 @@
 ## Desktop program for playing around with audio
 
 ## Video Presentation
-Presentation for Target1 &2
-!<iframe width="560" height="315" src="https://www.youtube.com/embed/isuapsf1ucM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<li>Presentation for Target 1&2:https://youtu.be/xKaJyPVXGSw</li>
+<li>Presentation for Target 3:https://youtu.be/isuapsf1ucM</li>
 
 ## Requirements
 
