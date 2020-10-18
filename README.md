@@ -7,8 +7,10 @@
 <ol>
 <li>Make a MP3 Player</li>
 </ol>
+
 ## Target 2:
-Graphical Visualization:
+
+### Graphical Visualization:
 <ol>
   <li>Simple Waveplot</li>
   <li>Onset Detection</li>
