@@ -1,0 +1,14 @@
+tkinter
+pygame
+PIL
+os
+librosa
+pandas
+numpy
+matplotlib
+webbrowser
+essentia
+essentia.standard
+essentia.streaming
+scipy
+sklearn
