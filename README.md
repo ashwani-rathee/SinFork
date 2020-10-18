@@ -16,7 +16,7 @@ Also, if you do not have some of the python packages needed a pip command will b
 First, clone this repository with the git clone command.
 To run the tool basically type
 '''
-python predict.py
+python main.py
 '''
 ### If some of the required python packages are missing, it will first install these packages and then run the sinfork.
 
