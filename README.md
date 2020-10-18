@@ -1,9 +1,9 @@
 # Project name: SinFork
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-## License: MIT LICENSE
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 <i>This repository is for my project for hackathon at HAMR2020</i>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+## License: MIT LICENSE
 ## Desktop program for playing around with audio
 
 ## Target 1:
