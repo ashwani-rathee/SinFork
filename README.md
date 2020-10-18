@@ -9,9 +9,10 @@
 ## Target 2:
 Graphical Visualization:
 <ol>
-  <li>Simple Waveplot<li>
+  <li>Simple Waveplot</li>
   <li>Onset Detection</li>
   <li>Beat Detection</li>
+  <li>BPM_Histogram</li>
   <li>RMSE</li>
   <li>Fast Fourier Transform</li>
   <li>Simple Spectrogram</li>
