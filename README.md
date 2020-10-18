@@ -1,5 +1,6 @@
 # Project name: SinFork
 <i>This repository is for my project for hackathon at HAMR2020</i>
+<br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
