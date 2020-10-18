@@ -34,6 +34,8 @@
   <li>Spectral_Rolloff</li>
  </ol>
  
+# Pictures:
+ ![](https://i.imgur.com/A6gGLDN.png)
 # Target 3:
 Explore TSNE on Audio for emotion classification
 ![](https://i.imgur.com/geg11jG.png)
