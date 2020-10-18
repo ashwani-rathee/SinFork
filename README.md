@@ -7,6 +7,19 @@
 ## License: MIT LICENSE
 ## Desktop program for playing around with audio
 
+# Requirements
+
+To run this tool you'll need Python 3. Download Python at https://www.python.org/downloads/.
+
+Also, if you do not have some of the python packages needed a pip command will be executed, so I strongly recommend to have pip installed. Installation guide at https://pip.pypa.io/en/stable/installing/.
+# How to use
+First, clone this repository with the git clone command.
+To run the tool basically type
+'''
+python predict.py
+'''
+### If some of the required python packages are missing, it will first install these packages and then run the sinfork.
+
 ## Target 1:
 <ol>
 <li>Make a MP3 Player</li>
