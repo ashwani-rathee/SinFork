@@ -6,6 +6,7 @@
 ## Target 1:
 <ol>
 <li>Make a MP3 Player</li>
+  Just Interested in being able to create a list and then being able to run the music and stop the music as of now
 </ol>
 
 ## Target 2:
