@@ -35,14 +35,12 @@
  </ol>
  
 # Target 3:
-Explore TSNE on Audios
-
+Explore TSNE on Audio for emotion classification
+![](https://i.imgur.com/geg11jG.png)
 
 ## Important Links:
-<pre>
-1)[HAMR 2020](https://www.ismir2020.net/hamr/)
-2)[Librosa Website](https://librosa.org/)
-3)[Librosa Github](https://github.com/librosa)
-4)[Essentia Github Repo from UPF,BARCELONA](https://github.com/MTG/essentia)
-5)[SMS-Tools: I picked Audios from them,thank you :)](https://github.com/MTG/sms-tools)
-</pre>
+<li>1)[HAMR 2020](https://www.ismir2020.net/hamr/)</li>
+<li>2)[Librosa Website](https://librosa.org/)</li>
+<li>3)[Librosa Github](https://github.com/librosa)</li>
+<li>4)[Essentia Github Repo from UPF,BARCELONA](https://github.com/MTG/essentia)</li>
+<li>5)[SMS-Tools: I picked Audios from them,thank you :)](https://github.com/MTG/sms-tools)</li>
