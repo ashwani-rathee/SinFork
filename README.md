@@ -9,7 +9,7 @@
 
 # Requirements
 
-To run this tool you'll need Python 3. Download Python at https://www.python.org/downloads/.
+To run this tool you'll need Python 3 and packages meintioned in requirements mentioned in requirements.txt. Download Python at https://www.python.org/downloads/.
 
 Also, if you do not have some of the python packages needed a pip command will be executed, so I strongly recommend to have pip installed. Installation guide at https://pip.pypa.io/en/stable/installing/.
 # How to use
