@@ -4,8 +4,9 @@
 ## Desktop program for playing around with audio
 
 ## Target 1:
-<li>1)Make a MP3 Player</li>
-
+<ol>
+<li>Make a MP3 Player</li>
+</ol>
 ## Target 2:
 Graphical Visualization:
 <ol>
