@@ -1,4 +1,7 @@
 # Project name: SinFork
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+## License: MIT LICENSE
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 <i>This repository is for my project for hackathon at HAMR2020</i>
 
 ## Desktop program for playing around with audio
@@ -32,3 +35,13 @@
  
 # Target 3:
 Explore TSNE on Audios
+
+
+## Important Links:
+<pre>
+1)![HAMR 2020](https://www.ismir2020.net/hamr/)
+2)![Librosa Website](https://librosa.org/)
+3)![Librosa Github](https://github.com/librosa)
+4)![Essentia Github Repo from UPF,BARCELONA](https://github.com/MTG/essentia)
+5)![SMS-Tools: I picked Audios from them,thank you :)](https://github.com/MTG/sms-tools)
+</pre>
